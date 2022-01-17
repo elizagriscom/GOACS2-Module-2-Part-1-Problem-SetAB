@@ -1,15 +1,15 @@
-# Module 1 Problems
+# Module 2 Part 1 Problems
 
-Please choose 8 of the problems from our assignment page to complete.
+Please choose 5 of the problems from our assignment page to complete.
 
 ---
 
 ### Instructions
-- Create a separate file for each program in the corresponding file in the Module 1 folder.
+- Create a separate file for each program.
 - Name each file according to the name on the assignment page.
 - In `completedproblems.md`, list the names of each of the problems you have completed
 and would like graded
-- When you are finished, be sure to COMMIT and PUSH your code to GitHub
+- When you are finished, be sure to sync (commit and push) your code to GitHub
 
 ---
 
